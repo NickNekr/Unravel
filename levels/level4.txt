@@ -1,0 +1,12 @@
+STEPS:35           
+                   
+                   
+         **********
+         * UUU    *
+         * LDL    *
+         *RRRR   U*
+         * ULLLLU *
+         * LLLRRU *
+         * DLLRRR *
+         *  DDDD  *
+         **********
