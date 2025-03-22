@@ -97,8 +97,10 @@ def draw_status(start_time, steps):
 
 def draw_level_menu(selected_level, completed_levels, total_levels):
     screen.fill(WHITE)
+    welcome_surface = font.render("Welcome to Unravel!", True, BLACK)
     title_surface = font.render("Select a Level", True, BLACK)
     screen.blit(title_surface, ((WIDTH - title_surface.get_width()) // 2, 50))
+    screen.blit(welcome_surface, ((WIDTH - title_surface.get_width()) // 2 - 30, 25))
     
     for i in range(total_levels):
         level_text = f"Level {i + 1} {'(Completed)' if i in completed_levels else ''}"
@@ -110,7 +112,13 @@ def draw_level_menu(selected_level, completed_levels, total_levels):
         level_surface = font.render(level_text, True, color)
         screen.blit(level_surface, (WIDTH // 2 - 100, 150 + i * 40))
     
+    hint_font = pygame.font.Font(None, 36)
+    hint_text = "Use UP/DOWN to navigate, ENTER to select"
+    hint_surface = hint_font.render(hint_text, True, (200, 200, 200))
+    screen.blit(hint_surface, ((WIDTH - hint_surface.get_width()) // 2, HEIGHT - 50))
+
     pygame.display.flip()
+
 
 def level_selector(levels):
     total_levels = len(levels)
@@ -132,6 +140,7 @@ def level_selector(levels):
                     selected_level = (selected_level + 1) % total_levels
                 if event.key == pygame.K_RETURN:
                     return selected_level, completed_levels
+            
 
 def move_arrow(level, pos_x, pos_y):
     new_level = [list(row) for row in level]
