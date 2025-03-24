@@ -227,7 +227,7 @@ def draw_menu(lvl_index, difficulty):
     play_surface = font.render("Play!", True, TERRACOTA)
 
     lvl_surface = font.render(f"Level: #{lvl_index}", True, TERRACOTA)
-    difficulty_surface = font.render(f"Difficulty: #{difficulty}", True, TERRACOTA)
+    difficulty_surface = font.render(f"Difficulty: {difficulty}", True, TERRACOTA)
 
     screen.blit(title_surface, ((WIDTH - title_surface.get_width()) // 2, 75))
     screen.blit(welcome_surface, ((WIDTH - welcome_surface.get_width()) // 2, 25))
