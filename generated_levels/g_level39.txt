@@ -1,0 +1,9 @@
+STEPS: 12
+Difficulty: Easy
+*******
+*  L  *
+* URU *
+* ULU *
+*  L  *
+* DDD *
+*******

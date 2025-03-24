@@ -1,12 +1,11 @@
-STEPS:35           
-                   
-                   
-         **********
-         * UUU    *
-         * LDL    *
-         *RRRR   U*
-         * ULLLLU *
-         * LLLRRU *
-         * DLLRRR *
-         *  DDDD  *
-         **********
+STEPS:35
+Difficulty:Hard            
+**********
+* UUU    *
+* LDL    *
+*RRRR   U*
+* ULLLLU *
+* LLLRRU *
+* DLLRRR *
+*  DDDD  *
+**********

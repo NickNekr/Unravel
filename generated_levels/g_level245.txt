@@ -1,0 +1,9 @@
+STEPS: 9
+Difficulty: Easy
+******
+*UR  *
+* DL *
+*U R *
+*  L *
+* R *
+******

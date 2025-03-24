@@ -1,14 +1,13 @@
-STEPS:25       
-               
-               
-         ******
-         * RU *
-         *UUUL*
-         * UL *
-         * RU *
-         *UULU*
-         * UL *
-         * RD *
-         *RURU*
-         * RD *
-         ******
+STEPS:25
+Difficulty:Hard        
+******
+* RU *
+*UUUL*
+* UL *
+* RU *
+*UULU*
+* UL *
+* RD *
+*RURU*
+* RD *
+******

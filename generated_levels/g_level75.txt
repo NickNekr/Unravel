@@ -1,0 +1,10 @@
+STEPS: 19
+Difficulty: Medium
+********
+* D    *
+* DU R *
+* LU UL*
+*R URD *
+*  LD  *
+* DULR *
+********

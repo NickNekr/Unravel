@@ -1,0 +1,8 @@
+STEPS: 8
+Difficulty: Easy
+******
+*RU  *
+* UD *
+*  L *
+* DR *
+******

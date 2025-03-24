@@ -1,0 +1,6 @@
+STEPS: 5
+Difficulty: Easy
+****
+*UR*
+*LU*
+****

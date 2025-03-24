@@ -1,11 +1,8 @@
-STEPS:14       
-               
-               
-               
-               
-         ******
-         *UUDD*
-         *L  R*
-         *L  R*
-         *UUDD*
-         ******
+STEPS:14
+Difficulty:Medium        
+******
+*UUDD*
+*L  R*
+*L  R*
+*UUDD*
+******

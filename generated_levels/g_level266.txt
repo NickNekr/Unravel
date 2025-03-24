@@ -1,0 +1,8 @@
+STEPS: 13
+Difficulty: Medium
+*******
+*UL UR*
+* DRD *
+*U  L *
+* DDR *
+*******

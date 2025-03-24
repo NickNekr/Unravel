@@ -1,0 +1,8 @@
+STEPS: 12
+Difficulty: Easy
+*******
+*  R  *
+*UL UL*
+* DL R*
+*  DRU*
+*******

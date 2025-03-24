@@ -1,0 +1,8 @@
+STEPS: 14
+Difficulty: Medium
+*******
+* UUL *
+*RRD R*
+* URR *
+* LDL *
+*******

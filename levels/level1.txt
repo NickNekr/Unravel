@@ -1,9 +1,6 @@
-STEPS:4      
-             
-             
-             
-             
-         ****
-         *UL*
-         *RU*
-         ****
+STEPS:4
+Difficulty:Easy   
+****
+*UL*
+*RU*
+****

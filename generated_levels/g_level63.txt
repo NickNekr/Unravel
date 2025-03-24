@@ -1,0 +1,10 @@
+STEPS: 20
+Difficulty: Hard
+*******
+*  RU *
+* LL R*
+*UUD L*
+*RU  D*
+*LDDR *
+*UR U *
+*******

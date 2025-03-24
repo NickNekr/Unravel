@@ -1,0 +1,9 @@
+STEPS: 20
+Difficulty: Hard
+*********
+* RUUD  *
+*  L   R*
+*LLR RU *
+*   DLLU*
+*RDD  U *
+*********

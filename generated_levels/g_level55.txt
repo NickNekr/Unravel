@@ -1,0 +1,8 @@
+STEPS: 13
+Difficulty: Medium
+******
+*RUU*
+*ULR*
+*UUL*
+*UUU*
+******

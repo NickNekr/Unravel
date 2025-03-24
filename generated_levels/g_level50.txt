@@ -1,0 +1,9 @@
+STEPS: 14
+Difficulty: Medium
+*******
+*  R  *
+* LUU *
+*R* DDR*
+* L L *
+* LUD *
+*******

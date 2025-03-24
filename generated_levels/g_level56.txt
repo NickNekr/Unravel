@@ -1,0 +1,8 @@
+STEPS: 17
+Difficulty: Medium
+********
+* RUUU *
+* U LD *
+*LUR R*
+* DUDDL*
+********

@@ -1,0 +1,10 @@
+STEPS: 22
+Difficulty: Hard
+********
+* URU  *
+*L U D *
+*L UU  *
+* R DRR*
+*  LL U*
+*U ULLL*
+********

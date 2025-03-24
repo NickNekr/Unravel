@@ -1,0 +1,9 @@
+STEPS: 20
+Difficulty: Hard
+*********
+* RUR  R*
+* UUUDD *
+* L  LR *
+* R  D  *
+* UUUDD *
+*********

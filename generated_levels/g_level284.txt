@@ -1,0 +1,9 @@
+STEPS: 11
+Difficulty: Easy
+******
+*UUD *
+*  R *
+*LDL *
+* DR *
+*  L *
+******

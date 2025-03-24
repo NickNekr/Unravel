@@ -1,0 +1,8 @@
+STEPS: 14
+Difficulty: Medium
+********
+*  RU  *
+*UU  LL*
+* LURR *
+*U DD  *
+********

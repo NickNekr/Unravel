@@ -1,10 +1,9 @@
-STEPS:15    
-                
-                
-         *******
-         *  U  *
-         * DDL *
-         *UD*UU*
-         * RUU *
-         *  U  *
-         *******
+STEPS:15
+Difficulty:Medium     
+*******
+*  U  *
+* DDL *
+*UD*UU*
+* RUU *
+*  U  *
+*******

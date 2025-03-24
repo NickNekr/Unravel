@@ -1,0 +1,10 @@
+STEPS: 14
+Difficulty: Medium
+*******
+* UD  *
+* LR  *
+* UDL *
+* URD *
+* LD  *
+*  L  *
+*******
