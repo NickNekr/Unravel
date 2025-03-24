@@ -1,9 +1,0 @@
-STEPS: 17
-Difficulty: Medium
-******
-* RUU *
-*DL R *
-* ULU *
-* LRD *
-*DDL U*
-******

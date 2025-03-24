@@ -1,9 +1,0 @@
-STEPS: 12
-Difficulty: Easy
-********
-*LRUD *
-* DU  *
-*  UL *
-*  R  *
-* LR  *
-********

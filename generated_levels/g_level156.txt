@@ -1,8 +1,0 @@
-STEPS: 9
-Difficulty: Easy
-******
-* UR *
-*DLU*
-* DR*
-* D *
-******

@@ -1,9 +1,0 @@
-STEPS: 13
-Difficulty: Medium
-********
-* RR  *
-* UU  *
-* DD  *
-* LL  *
-*UDRD *
-********

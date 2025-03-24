@@ -1,9 +1,0 @@
-STEPS: 14
-Difficulty: Medium
-*******
-*UR U *
-*DUUU*
-* L  *
-*  RD*
-* DLL*
-*******

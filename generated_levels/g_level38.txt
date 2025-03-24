@@ -1,7 +1,0 @@
-STEPS: 7
-Difficulty: Easy
-******
-*RUU*
-*L  *
-*D R*
-******

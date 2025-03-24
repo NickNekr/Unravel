@@ -348,8 +348,10 @@ def main():
                     start_time = time.time()
 
                 screen.fill(WHITE)
-                pygame.draw.rect(screen, SAND, (0, 0, STRIPE_WIDTH, HEIGHT))
-                pygame.draw.rect(screen, SAND, (WIDTH - STRIPE_WIDTH, 0, STRIPE_WIDTH, HEIGHT))
+                
+                back_image = pygame.image.load(f"back_images/{str(current_level_index % 4)}.png").convert_alpha()
+                back_image = pygame.transform.scale(back_image, (WIDTH, HEIGHT))
+                screen.blit(back_image, (0, 0))
                 draw_level(level)
                 draw_status(level, start_time, steps, difficulty, current_level_index)
                 pygame.display.flip()

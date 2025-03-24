@@ -1,9 +1,0 @@
-STEPS: 12
-Difficulty: Easy
-*******
-*  R  *
-* UDL *
-*R  UR*
-* DDL*
-*  L  *
-*******

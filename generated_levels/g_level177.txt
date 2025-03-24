@@ -1,8 +1,0 @@
-STEPS: 14
-Difficulty: Medium
-******
-*U DLL*
-*LURR *
-*D  U *
-* DDR *
-******
